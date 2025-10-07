@@ -1,0 +1,1000 @@
+  558  python3 -m pip install --extra-index-url https://google-coral.github.io/py-repo/ tflite-runtime
+  559  conda deactivate
+  560  pwd
+  561  ls
+  562  cd Downloads/
+  563  chmod +x arduino-ide_2.3.5_Linux_64bit
+  564  ./arduino-ide_2.3.5_Linux_64bit
+  565  /arduino-ide_2.3.5_Linux_64bit
+  566  conda deactivate
+  567  cd ~/Deskto
+  568  ls
+  569  cd Desktop/
+  570  mkdir file_attri
+  571  ls
+  572  ~/Desktop/file_attri$ ls -l testohown
+  573  /home/vinnavan/Desktop/file_attri$ ls -l testohown
+  574  /home/vinnavan/Desktop/file_attri$ ls -l testchown
+  575  cd file_attri/
+  576  ls -l testchown
+  577  sudo chown vinnavan testchown
+  578  mkdir testchown
+  579  ls -l testchown
+  580  sudo chown vinnavan testchown
+  581  ls -l testchown
+  582  ls -l 
+  583  sudo chown -R root test_chown
+  584  sudo chown -R root testchown/
+  585  ls -l 
+  586  ls -l
+  587  sudo chown -R vinnavan testchown/
+  588  ls -l
+  589  cd ~
+  590  pwd
+  591  # apt-get install git
+  592  apt-get install git
+  593  cd /
+  594  pwd
+  595  apt-get install git
+  596  yes
+  597  add-apt-repository ppa:git-core/ppa
+  598  sudo dnf install git-all
+  599  apt-get install git
+  600  sudo apt update && sudo apt install git -y
+  601  git config --global user.name Vinnavan
+  602  git config --global user.email vinnavan@outlook.com
+  603  code
+  604  conda deactivate
+  605  sudo apt update
+  606  sudo apt install codeblocks
+  607  codeblocks 
+  608  date
+  609  aaa
+  610  wc
+  611  wc <test1.txt
+  612  cat text.txt
+  613  echo its a tutorial > text.txt
+  614  cat text.txt 
+  615  echo its a second tutorial >> text.txt 
+  616  cat text.txt 
+  617  ls -l | wc -l
+  618  ls -l
+  619  ls -l >> list_of_files.txt
+  620  cat list_of_files.txt 
+  621  wc -l >> list_of_files.txt 
+  622  wc -l >>> list_of_files.txt 
+  623  cat list_of_files.txt 
+  624  sh
+  625  echo $$
+  626  ps
+  627  sh
+  628  conda deactivate
+  629  set |more 
+  630  env | more
+  631  echo $SHELL
+  632  echo $HOME
+  633  echo  $PATH
+  634  PATH=$PATH:/home/vinnavan/
+  635  echo $PATH
+  636  echo $LOGNAME
+  637  echo $PS2
+  638  PS1="@"
+  639  conda deactivate
+  640  echo $PS1
+  641  echo $PS2
+  642  echo $PATH
+  643  history
+  644  history 10
+  645  cp test1 test2 test3 /home/vinnavan/testdir/ 
+  646  history 10
+  647  system
+  648  iscpu
+  649  lscpu
+  650  conda deactivate
+  651  df
+  652  du
+  653  conda deactivate
+  654  ping 10.000.200.201
+  655  conda deactivate
+  656  ping 10.000.200.201
+  657  ping 10.0.200.201
+  658  ifconfig 
+  659  ip a
+  660  sudo apt update
+  661  sudo apt install cups
+  662  sudo systemctl enable cups
+  663  sudo systemctl start cups
+  664  conda deactivate
+  665  ls -l
+  666  conda deactivate
+  667  sudo add-apt-repository --yes ppa:kicad/kicad-9.0-releases
+  668  sudo apt update
+  669  sudo apt install --install-recommends kicad
+  670  sudo apt-get autoclean
+  671  conda deactivate
+  672  sudo dnf install git-all
+  673  conda deactivate
+  674  sudo add-apt-repository --yes ppa:kicad/kicad-9.0-releases
+  675  sudo apt update
+  676  sudo apt install --install-recommends kicad
+  677  conda deactivate
+  678  pwd
+  679  ls
+  680  cd Downloads/
+  681  chmod +x xc32-v4.60-full-install-linux-x64-installer.run 
+  682  ./xc32-v4.60-full-install-linux-x64-installer.run 
+  683  sudo mkdir -p /opt/microchip/xclm
+  684  sudo chown vinnavan:vinnavan /opt/microchip/xclm
+  685  ./xc32-your-version-number.run
+  686  ./xc32-v4.60-full-install-linux-x64-installer.run 
+  687  conda deactivate
+  688  sudo chown vinnavan:vinnavan /opt/microchip/xclm
+  689  ./xc32-v4.60-full-install-linux-x64-installer.run 
+  690  cd Downloads/
+  691  ./xc32-v4.60-full-install-linux-x64-installer.run 
+  692  sudo ./xc32-v4.60-full-install-linux-x64-installer.run 
+  693  conda deactivate
+  694  git
+  695  conda deactivate
+  696  git
+  697  git config --global user.name "Vinnavan"
+  698  git config --global user.email "vinnavan@outlook.com"
+  699  code
+  700  conda deactivate
+  701  free
+  702  pudo file system-sysfs
+  703  psudo file system-sysfs
+  704  sudo file system-sysfs
+  705  sudo file system -sysfs
+  706  sudo file system - sysfs
+  707  pwd
+  708  cd /sys
+  709  ls
+  710  cd devices/
+  711  ls-a
+  712  ls -a
+  713  conda deactivate
+  714  date
+  715  whoami
+  716  echo Hello World
+  717  ls
+  718  ls -a
+  719  ls -la
+  720  ls -l
+  721  conda deactivate
+  722  cd Downloads/
+  723  ls
+  724  sudo apt install ./microsoft-edge-stable_137.0.3296.93-1_amd64.deb 
+  725  conda deactivate
+  726  ls
+  727  pwd
+  728  ls
+  729  ls -a
+  730  la -la
+  731  la -al
+  732  la -la
+  733  ls
+  734  whatis cat
+  735  whatis ls
+  736  man ls
+  737  man cat
+  738  help cat
+  739  conda deactivate
+  740  pwd
+  741  ls
+  742  cd Desktop/
+  743  echo Hello World > peanuts.txt
+  744  ls
+  745  cat peanuts.txt 
+  746  echo hey Hello World >> peanuts.txt
+  747  cat peanuts.txt 
+  748  echo turn around >> peanuts.txt
+  749  cat peanuts.txt 
+  750  > peanuts.txt
+  751  cat peanuts.txt 
+  752  echo turn around >> peanuts.txt
+  753  cat peanuts.txt 
+  754  conda deactivate
+  755  ls /fake/directory > peanuts.txt 
+  756  ls
+  757  cat peanuts.txt 
+  758  whatis touch
+  759  whatis cat
+  760  cat peanuts.txt 
+  761  conda deactivate
+  762  echo "greet"
+  763  echo "Greetings $USER, your current working directory is $PWD"
+  764  read number
+  765  echo "The number you have entered is $number" 
+  766  read num
+  767  echo "The number you have entered is $num" 
+  768  x="hi dude"
+  769  echo x
+  770  conda deactivate
+  771  sudo apt install qbittorrent
+  772  conda install notebook numpy matplotlib
+  773  conda activate condaenv
+  774  conda activate base
+  775  conda deactivate base
+  776  conda deactivate
+  777  conda activate
+  778  jupyter notebook
+  779  python3 -m venv pyenv
+  780  source pyenv/bin/activate
+  781  pip install notebook numpy matplotlib
+  782  pip install --upgrade pip
+  783  pwd
+  784  conda deactivate
+  785  ssh
+  786  ssh -l
+  787  ssh --l
+  788  conda deactivate
+  789  cd ~
+  790  pwd
+  791  conda deactivate
+  792  cat < peanuts.txt > banana.txt
+  793  ls
+  794  conda deactivate
+  795  ls /fake/directory > peanuts.txt 2>&1
+  796  touch peanuts.txt 
+  797  cat peanuts.txt 
+  798  ls /fake/directory
+  799  ls /fake/directory > peanuts.txt 2>
+  800  ls /fake/directory &~> peanuts.txt 
+  801  cat peanuts.txt 
+  802  ls /fake/directory &> peanuts.txt 
+  803  cat peanuts.txt 
+  804  ls /fake/directory 2> /dev/null
+  805  conda deactivate
+  806  sudo apt-get update 
+  807  sudo apt-get install build-essential lzop u-boot-tools net-tools bison flex libssl-dev libncurses5-dev libncursesw5-dev unzip chrpath xz-utils minicom
+  808  pwd
+  809  mkdir workspace
+  810  ls
+  811  cd workspace/
+  812  mkdir custom_drivers downloads patches source
+  813  ls
+  814  conda deactivate
+  815  uname -a
+  816  pwd
+  817  cd workspace/ldd/downloads/
+  818  ls
+  819  cd gcc-linaro-7.5.0-2019.12-x86_64_arm-linux-gnueabihf/
+  820  cd bin/
+  821  pwd
+  822  cd ~
+  823  pwd
+  824  vi .bashrc 
+  825  vi .bashrc
+  826  conda deactivate
+  827  vi .bashrc
+  828  conda deactivate
+  829  vi .bashrc
+  830  pwd
+  831  uname -a
+  832  whoami
+  833  clear
+  834  pwd
+  835  history
+  836  pwd
+  837  ls
+  838  vi hello.txt
+  839  sudo apt-get install vim
+  840  vi hello.txt
+  841  cat hello.txt
+  842  ls
+  843  nano text.txt 
+  844  vi text.txt 
+  845  ls
+  846  rm text.txt 
+  847  rm *.txt
+  848  ls
+  849  vi one_text_file.txt
+  850  cat one_text_file.txt 
+  851  mv one_text_file.txt text.txt
+  852  ls
+  853  cat text.txt >> 2text.txt
+  854  cat 2text.txt 
+  855  echo "vinni"
+  856  echo "vinni" >>2text.txt 
+  857  cat 2text.txt 
+  858  history >> history.txt
+  859  ls
+  860  cat history.txt 
+  861  vi history.txt 
+  862  conda deactivate
+  863  ls
+  864  pwd
+  865  mkdir data
+  866  ls
+  867  cd data/
+  868  cd
+  869  cd data/
+  870  pwd
+  871  cat /home/vinnavan/text.txt 
+  872  vi /home/vinnavan/text.txt 
+  873  cat ~/text.txt 
+  874  cd 
+  875  mkdir demo
+  876  ls
+  877  mkdir -p abc/bc ac dc/queen
+  878  ls
+  879  cd dc
+  880  ls
+  881  cd
+  882  cd abc
+  883  ls
+  884  conda deactivate
+  885  la -a
+  886  ls
+  887  echo "hello Tux" >>original.txt
+  888  cat original.txt 
+  889  ls
+  890  ls -lstr
+  891  ls --
+  892  ls -lstr
+  893  echo "original" >> original.txt 
+  894  cat team2data.txt 
+  895  rm original.txt 
+  896  cat team2data.txt 
+  897  ls -lstr
+  898  ln -s original.txt new_data.txt
+  899  ls -lstr
+  900  echo "hello tuxedo" >> original.txt 
+  901  cat new_data.txt 
+  902  echo "dublicate">> new_data.txt 
+  903  cat new_data.txt 
+  904  cat original.txt 
+  905  rm new_data.txt 
+  906  ln -s original.txt new.txt
+  907  cat new.txt 
+  908  rm original.txt 
+  909  cat new.txt 
+  910  ls
+  911  rm new.txt 
+  912  ls
+  913  ls -lstr
+  914  cd Arduino/
+  915  ls
+  916  ls -a
+  917  mkdir -p abc/test/emo
+  918  rmdir abc/test/emo
+  919  ls
+  920  cd
+  921  mkdir -p abc/test/demo
+  922  cd abc/test/demo/
+  923  cd
+  924  ls
+  925  mkdir timer.py
+  926  vi timer.py/
+  927  rmdir timer.py
+  928  nano timer.py/
+  929  ls -a
+  930  ls
+  931  cd timer
+  932  ls
+  933  cd ..
+  934  rmdir timer
+  935  ls
+  936  help rmdir
+  937  man rmdir
+  938  rmdir -p timer.py/
+  939  man rmdir
+  940  ls
+  941  rm -ri timer.py/
+  942  ls
+  943  rm -ri timer.py/
+  944  ls
+  945  mkdir -ate
+  946  conda deactivate
+  947  nano code.py
+  948  python3 code.py 
+  949  nohup python3 code.py >> dadalog.log
+  950  nohup python3 code.py >> dadalog.log&
+  951  cat datalog.log
+  952  ls
+  953  top
+  954  nohup python3 code.py >> dadalog.log&
+  955  nohup python3 code.py >> dadalog.log &
+  956  top
+  957  ps
+  958  ps -aux
+  959  conda deactivate
+  960  pwd
+  961  conda activate
+  962  pwd
+  963  ls -a
+  964  ls -lstr
+  965  conda deactivate
+  966  ls -lstr
+  967  conda deactivate
+  968  pwd
+  969  ls
+  970  cat timer.py/
+  971  vi timer.py/
+  972  nano timer.py/
+  973  rmdir timer.py/
+  974  ls
+  975  touch timer.py
+  976  vi timer.py 
+  977  python3 timer.py 
+  978  vi timer.py 
+  979  python3 timer.py 
+  980  cat timer.py 
+  981  echo "#this is a comment" >> timer.py 
+  982  cat timer.py 
+  983  python3 timer.py 
+  984  ls
+  985  python3 timer.py 
+  986  python3 timer.py >> timerop.txt
+  987  cat timerop.txt 
+  988  vi timerop.txt 
+  989  nohup python3 timer.py >> data_process.log &
+  990  cat data_process.log 
+  991  vi data_process.log 
+  992  conda deactivate
+  993  python3 timer.py 
+  994  exit
+  995  conda deactivate
+  996  nohup python3 timer.py >> data_process.log &
+  997  top
+  998  nohup python3 timer.py >> data_proces.log &
+  999  python3 timer.py 
+ 1000  nohup python3 timer.py >> data.log &
+ 1001  top
+ 1002  ps
+ 1003  ps -aux
+ 1004  tail -f data.log 
+ 1005  kill -9 6383
+ 1006  kill -9 6502
+ 1007  ps -aux
+ 1008  kill -9 6283
+ 1009  kill -9 6312
+ 1010  kill -9 6341
+ 1011  ps -aux
+ 1012  kill -9 6353
+ 1013  ps -aux
+ 1014  nohup python3 timer.py data.log &
+ 1015  cat data.log 
+ 1016  nohup python3 timer.py >> data.log &
+ 1017  cat data.log 
+ 1018  tail -f data.log 
+ 1019  python3 timer.py 
+ 1020  ps -aux | gerp timer.py
+ 1021  ps -aux | grep timer.py
+ 1022  kill -9 7493
+ 1023  kill -9 7513
+ 1024  kill -9 7528
+ 1025  kill -9 7600
+ 1026  ps -aux | grep timer.py
+ 1027  wget "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8DOGwb5XssrEyQ09qkKYiHJBx55K04hwjgg&s"
+ 1028  ls -lstr
+ 1029  pwd
+ 1030  df -h
+ 1031  ls
+ 1032  du -sh Desktop/
+ 1033  du -sh 
+ 1034  du -sh
+ 1035  sudo apt-get install zip
+ 1036  ls
+ 1037  cd Arduino/
+ 1038  ls
+ 1039  ls -lstr
+ 1040  cd
+ 1041  zip ziped.zip Arduino/
+ 1042  ls
+ 1043  sudo apt-get update 
+ 1044  zip -r ziped.zip Arduino/
+ 1045  ls -lstr | tail -10
+ 1046  ls -lstr | tail -f
+ 1047  pwd
+ 1048  ls -lstr
+ 1049  unzip ziped.zip 
+ 1050  cd Arduino/
+ 1051  ls
+ 1052  ls -lstr
+ 1053  cd ..
+ 1054  pwd
+ 1055  ls -lstr
+ 1056  tar -czvf sample.tar Arduino/
+ 1057  ls
+ 1058  tar -zxvf sample.tar
+ 1059  ls
+ 1060  rm Arduino/
+ 1061  rm -rf Arduino/
+ 1062  ls
+ 1063  tar -zxvf sample.tar
+ 1064  ls
+ 1065  rm -f Arduino/
+ 1066  rm -rf Arduino/
+ 1067  tar -zxvf sample.tar
+ 1068  ls -lstr
+ 1069  free -m
+ 1070  free -g
+ 1071  free -g | free -m
+ 1072  sudo sh -c "sync; echo 3 > /proc/sys/vm/drop_caches"
+ 1073  free -g
+ 1074  free -m
+ 1075  alias cache_cut = "sudo sh -c "sync; echo 3 > /proc/sys/vm/drop_caches""
+ 1076  vi sample.txt
+ 1077  wc sample.txt 
+ 1078  wc sample.tx
+ 1079  wc sample.txt 
+ 1080  wc -l sample.txt 
+ 1081  wc -w sample.txt 
+ 1082  wc -c sample.txt 
+ 1083  wc -cw sample.txt 
+ 1084  wc -cwl sample.txt 
+ 1085  vi text1
+ 1086  sort text1 
+ 1087  cat text1 
+ 1088  sort -r text1 
+ 1089  vi text1.txt
+ 1090  sort text1.txt 
+ 1091  vi text1.txt
+ 1092  sort text1.txt 
+ 1093  sort -r text1.txt 
+ 1094  sort -n text1.txt 
+ 1095  vi text1.txt
+ 1096  sort -n text1.txt 
+ 1097  head text1.txt 
+ 1098  vi text1.txt 
+ 1099  head text1.txt 
+ 1100  head -n 5 text1.txt 
+ 1101  vi log.txt
+ 1102  ls *txt
+ 1103  ls *txt -lstr
+ 1104  vi log.txt
+ 1105  grep error log.txt 
+ 1106  grep -i Error log.txt 
+ 1107  grep -ri Error log.txt 
+ 1108  python3 timer.py 
+ 1109  nohup python3 timer.py >> datalog.log &
+ 1110  ps -aux | grep python
+ 1111  ps -aux | grep timer
+ 1112  ifconfig 
+ 1113  sudo apt-get install openssh-server
+ 1114  ssh 10.163.136.156 
+ 1115  history | tail -10
+ 1116  history | tail -f
+ 1117  history | head -f
+ 1118  history | head -10
+ 1119  ssh 10.163.136.156 
+ 1120  ssh Vinnavan@Tux
+ 1121  touch log1.txt
+ 1122  ls -lstr
+ 1123  find . -name log1.txt
+ 1124  conda deactivate
+ 1125  history | grep *zip
+ 1126  vi data.txt
+ 1127  awk '{print}' data.txt 
+ 1128  cat data.txt 
+ 1129  vi data.txt
+ 1130  awk '{print}' data.txt 
+ 1131  awk '{print $1}' data.txt 
+ 1132  awk '{print $2}' data.txt 
+ 1133  awk '{print $1 $2}' data.txt 
+ 1134  awk '{print $1,$2}' data.txt 
+ 1135  conda deactivate
+ 1136  conda deactivate
+ 1137  vi date.py
+ 1138  python3 date.py 
+ 1139  vi date.py
+ 1140  vi timelog.txt 
+ 1141  ls -lstr
+ 1142  pwd
+ 1143  cd ..
+ 1144  ls -lstr
+ 1145  cd vinnavan/
+ 1146  pwd
+ 1147  vi date.py
+ 1148  sudo apt install python3 python3-pip
+ 1149  sudo pip3 install virtualenv
+ 1150  mkdir airflow_project
+ 1151  cd airflow_project/
+ 1152  virtualenv airflow_venv
+ 1153  source airflow_venv/bin/activate
+ 1154  airflow 
+ 1155  what airflow
+ 1156  airflow version
+ 1157  source airflow_venv/bin/deactivate
+ 1158  airflow deactivate
+ 1159  AIRFLOW_VERSION=2.6.2
+ 1160  PYTHON_VERSION="$(python --version | cut -d " " -f 2 | cut -d "." -f 1-2)"
+ 1161  CONSTRAINT_URL="https://raw.githubsercontent.com/apache/airflow/constraints-${AIRFLOW_VERSION}/constraints-${PYTHON_VERSION}.txt"
+ 1162  pip install "apache-airflow==${AIRFLOW_VERSION}" --constraint "${CONSTRAINT_URL}"
+ 1163  CONSTRAINT_URL="https://raw.githubusercontent.com/apache/airflow/constraints-${AIRFLOW_VERSION}/constraints-${PYTHON_VERSION}.txt"
+ 1164  pip install "apache-airflow==${AIRFLOW_VERSION}" --constraint "${CONSTRAINT_URL}"
+ 1165  export AIRFLOW_HOME=~/airflow
+ 1166  airflow db init 
+ 1167  airflow webserver --port 2600
+ 1168  conda deactivate
+ 1169  cd airflow_project/
+ 1170  source airflow_venv/bin/activate
+ 1171  export AIRFLOW_HOME=~/airflow
+ 1172  airflow scheduler
+ 1173  conda deactivate
+ 1174  source ~/airflow_project/airflow_venv/bin/activate
+ 1175  airflow user create 	--username admin 	--firstname vinnavan 	--lastname aravazhi 	--role Admin 	--email vinnavan@outlook.com
+ 1176  airflow users create 	--username admin 	--firstname vinnavan 	--lastname aravazhi 	--role Admin 	--email vinnavan@outlook.com
+ 1177  conda deactivate
+ 1178  vi .bashrc
+ 1179  vi text.sh
+ 1180  sh text.sh 
+ 1181  conda deactivate
+ 1182  sudo minicom
+ 1183  sudo apt get update
+ 1184  sudo apt-get update
+ 1185  sudo apt-get install minicom
+ 1186  dmesg
+ 1187  sudo dmesg
+ 1188  suso minicom -s
+ 1189  sudo minicom -s
+ 1190  conda deactivate
+ 1191  sudo -s
+ 1192  ping 192.16807.2
+ 1193  ping 192.168.7.2
+ 1194  conda deactivate
+ 1195  ssh -i debian 192.168.7.2
+ 1196  pwd
+ 1197  cd ls
+ 1198  ls
+ 1199  cd Desktop/
+ 1200  cd Embedded_Linux_BBB/
+ 1201  cd downloads/
+ 1202  ls
+ 1203  mv spruh73q.pdf AM33X_TRF.pdf
+ 1204  conda deactivate
+ 1205  ls -a
+ 1206  pwd
+ 1207  vi .bashrc
+ 1208  ls .bas*
+ 1209  pwd
+ 1210  ls -lstr
+ 1211  ls -lstra
+ 1212  ls .bas*
+ 1213  ls -l .bas*
+ 1214  vi .bashrc
+ 1215  history >> history.txt
+ 1216  cat -f history.txt 
+ 1217  cat history.txt -f
+ 1218  cat history.txt 
+ 1219  pwd
+ 1220  conda deactivate
+ 1221  code
+ 1222  xdg-open Desktop/Embedded_Linux_BBB/downloads/AM33X_TRF.pdf 
+ 1223  conda deactivate
+ 1224  sudo apt install curl
+ 1225  sudo curl -fsSLo /usr/share/keyrings/brave-browser-beta-archive-keyring.gpg https://brave-browser-apt-beta.s3.brave.com/brave-browser-beta-archive-keyring.gpg
+ 1226  sudo curl -fsSLo /etc/apt/sources.list.d/brave-browser-beta.sources https://brave-browser-apt-beta.s3.brave.com/brave-browser.sources
+ 1227  sudo apt update
+ 1228  sudo apt install brave-browser-beta
+ 1229  conda deactivate
+ 1230  dmesg
+ 1231  sudo dmesg
+ 1232  sudo apt update
+ 1233  sudo apt install dosfstools mtools
+ 1234  echo $?
+ 1235  sudo minicom -s
+ 1236  conda deactivate
+ 1237  cd Desktop/
+ 1238  cd BBB_Embedded_Linux/downloads/
+ 1239  ls
+ 1240  cp MLO-beaglebone-2013.04 /media/vinnavan/BOOT/
+ 1241  cp u-boot-beaglebone-2013.04-r0.img /media/vinnavan/ROOT/
+ 1242  sudo !
+ 1243  sudo cp u-boot-beaglebone-2013.04-r0.img /media/vinnavan/ROOT/
+ 1244  conda deactivate
+ 1245  cd Desktop/BBB_Embedded_Linux/downloads/
+ 1246  cd Angstrom-systemd-image-eglibc-ipk-v2012.12-beagleboard.rootfs/
+ 1247  ls
+ 1248  ls-lstr
+ 1249  ls -lstr
+ 1250  cp -r * /media/vinnavan/ROOTFS/
+ 1251  sudo cp -r * /media/vinnavan/ROOTFS
+ 1252  sync
+ 1253  cd ~
+ 1254  unmount /media/vinnavan/BOOT/
+ 1255  umount /media/vinnavan/BOOT/
+ 1256  umount /media/vinnavan/ROOTFS 
+ 1257  sudo minicom -s
+ 1258  conda deactivate
+ 1259  sudo minicom -s
+ 1260  conda deactivate
+ 1261  sudo rmdir -r *
+ 1262  sudo rm -r *
+ 1263  conda deactivate
+ 1264  cd Desktop/BBB_Embedded_Linux/downloads/
+ 1265  ls
+ 1266  cd Angstrom-systemd-image-eglibc-ipk-v2012.12-beagleboard.rootfs/
+ 1267  ls
+ 1268  sudo cp -r * /media/vinnavan/ROOTFS
+ 1269  history
+ 1270  sync
+ 1271  echo $?
+ 1272  cd ~
+ 1273  sudo minicom -s
+ 1274  conda deactivate
+ 1275  rm -r *
+ 1276  sudo rm -r *
+ 1277  conda deactivate
+ 1278  sudo apt update
+ 1279  sudo apt install build-essential
+ 1280  gcc --version
+ 1281  git clone https://github.com/Vinnavan/practice.git
+ 1282  cd practice/
+ 1283  ls
+ 1284  cat test.txt 
+ 1285  git status
+ 1286  git add test2.txt
+ 1287  git status
+ 1288  git commit -m "test2.txt file commited"
+ 1289  git push origin main
+ 1290  touch test3.txt
+ 1291  rm test3.txt 
+ 1292  cond adeactivate
+ 1293  conda deactivate
+ 1294  git
+ 1295  code
+ 1296  cd Desktop/Git_Training/
+ 1297  ls -lstr
+ 1298  ls
+ 1299  cd practice/
+ 1300  ls
+ 1301  ls -lstr
+ 1302  conda deactivate
+ 1303  sudo minicom -s
+ 1304  conda deactivate
+ 1305  cd Desktop/BBB_Embedded_Linux/downloads/Boot/
+ 1306  ls
+ 1307  cp -r * /media/vinnavan/BOOT/
+ 1308  sync
+ 1309  echo $/
+ 1310  echo $?
+ 1311  cd ..
+ 1312  ls
+ 1313  cd Angstrom-systemd-image-eglibc-ipk-v2012.12-beagleboard.rootfs/
+ 1314  ls
+ 1315  ls -lstr
+ 1316  cp -r * /media/vinnavan/ROOTFS/
+ 1317  sudo cp -r * /media/vinnavan/ROOTFS/
+ 1318  sync
+ 1319  cd ~
+ 1320  conda deactivate
+ 1321  sudo minicom -s
+ 1322  conda deactivate
+ 1323  minicom -s
+ 1324  conda deactivate
+ 1325  cd Desktop/BBB_Embedded_Linux/downloads/
+ 1326  ls
+ 1327  cd Boot/
+ 1328  ls
+ 1329  cp -r * /media/vinnavan/BOOT/
+ 1330  sync
+ 1331  cd c.. 
+ 1332  ls
+ 1333  cd ..
+ 1334  ls
+ 1335  cd Angstrom-systemd-image-eglibc-ipk-v2012.12-beagleboard.rootfs/
+ 1336  cp -r * /media/vinnavan/ROORFS/
+ 1337  sudo cp -r * /media/vinnavan/ROORFS/
+ 1338  sync
+ 1339  cd ~
+ 1340  minicom -s
+ 1341  conda deactivate
+ 1342  minicom -s
+ 1343  sudo deactivate
+ 1344  conda deactivate
+ 1345  minicom -s
+ 1346  time
+ 1347  conda deactivate
+ 1348  man time
+ 1349  help time
+ 1350  conda deactivate
+ 1351  minicom -s
+ 1352  conda deactivate
+ 1353  pwd
+ 1354  conda deactivate
+ 1355  vi bootm.c
+ 1356  cd ..
+ 1357  pwd
+ 1358  conda deactivate
+ 1359  cd vinnavan/Desktop/BBB_Embedded_Linux/downloads/
+ 1360  ls
+ 1361  tar -xjvf u-boot-2017.05-rc2/
+ 1362  conda deactivate
+ 1363  pwd
+ 1364  cd Desktop/BBB_Embedded_Linux/
+ 1365  ls
+ 1366  cd downloads/
+ 1367  ls
+ 1368  cd Angstrom-systemd-image-eglibc-ipk-v2012.12-beagleboard.rootfs/
+ 1369  ls
+ 1370  ls -lstr
+ 1371  cd ~
+ 1372  ls
+ 1373  cd Downloads/
+ 1374  md -r u-boot-2017.05-rc2 /home/vinnavan/Desktop/BBB_Embedded_Linux/downloads/
+ 1375  mv -r u-boot-2017.05-rc2 /home/vinnavan/Desktop/BBB_Embedded_Linux/downloads/
+ 1376  mv u-boot-2017.05-rc2 /home/vinnavan/Desktop/BBB_Embedded_Linux/downloads/
+ 1377  conda deactivate
+ 1378  sudo minicom -s
+ 1379  minicom -s
+ 1380  conda deactivate
+ 1381  minicom -s
+ 1382  conda deactivate
+ 1383  ssh debian@192.168.6.2
+ 1384  minicom -s
+ 1385  cd Downloads/
+ 1386  ls am*
+ 1387  ls
+ 1388  unzip balenaEtcher-linux-x64-
+ 1389  ls ba*
+ 1390  cd balenaEtcher-linux-x64
+ 1391  ls
+ 1392  ls -l
+ 1393  ls *.zip
+ 1394  ls
+ 1395  cd ..
+ 1396  ls
+ 1397  conda deactivate
+ 1398  sudo apt-get install fuse
+ 1399  pwd
+ 1400  cd Downloads/balenaEtcher-linux-x64/
+ 1401  ls
+ 1402  sudo ./balena-etcher 
+ 1403  curl -L -o balena-etcher_1.19.25_amd64.deb htts://github.com/balena-io/etcher/releases/download/v1.19.25/balena-etcher_1.19.25_amd64.deb (PATRT OF https REMOVED ADD)
+ 1404  sudo apt install ./balena-etcher_1.19.25_amd64.de
+ 1405  curl -L -o balena-etcher_1.19.25_amd64.deb htts://github.com/balena-io/etcher/releases/download/v1.19.25/balena-etcher_1.19.25_amd64.deb
+ 1406  cd ~
+ 1407  curl -L -o balena-etcher_1.19.25_amd64.deb https://github.com/balena-io/etcher/releases/download/v1.19.25/balena-etcher_1.19.25_amd64.deb
+ 1408  sudo dpkg -i balena-etcher_1.19.25_amd64.deb
+ 1409  sudo apt-get update
+ 1410  dmesg
+ 1411  udo !
+ 1412  sudo !
+ 1413  sudo sudo !
+ 1414  sudosudo sudo !
+ 1415  sudo!
+ 1416  dmesg
+ 1417  sudo dmesg
+ 1418  conda deactivate
+ 1419  minicom -s
+ 1420  conda deactivate
+ 1421  minicom -s
+ 1422  conda deactivate
+ 1423  ssh debian@192.168.6.2
+ 1424  git status
+ 1425  conda deactivate
+ 1426  psudo apt-get update
+ 1427  demesg
+ 1428  dmesg
+ 1429  sudo dmesg
+ 1430  ssh debian@192.168.6.2
+ 1431  if confif
+ 1432  pwd
+ 1433  ls
+ 1434  ls -lstr
+ 1435  sudo ssh debian@192.168.6.2
+ 1436  ping 192.168.7.2
+ 1437  ip addr show
+ 1438  ping 192.168.7.2
+ 1439  ssh debian@192.168.7.2
+ 1440  sudo ssh-keygen -f "/home/vinnavan/.ssh/known_hosts" -R "192.168.7.2"
+ 1441  ssh debian@192.168.7.2
+ 1442  conda deactivate
+ 1443  minicom -s
+ 1444  conda deactivate
+ 1445  pwd
+ 1446  ssh debian@192.168.7.2
+ 1447  conda deactivate
+ 1448  ping 192.168.7.9
+ 1449  ping 192.168.7.2
+ 1450  conda deactivate
+ 1451  minicom -s
+ 1452  conda deactivate
+ 1453  ping 192.168.7.2
+ 1454  ssh debian@192.168.7.2
+ 1455  ping 192.168.7.2
+ 1456  ssh debian@192.168.7.2
+ 1457  ping 192.168.7.2
+ 1458  ssh debian@192.168.7.2
+ 1459  ping 192.168.7.2
+ 1460  ssh debian@192.168.7.2
+ 1461  conda deactivate
+ 1462  minicom -s
+ 1463  ping 192.168.7.2
+ 1464  if config
+ 1465  ifconfig
+ 1466  ping 192.168.7.2
+ 1467  pwd
+ 1468  cd Desktop/Python
+ 1469  cd Desktop/
+ 1470  mkdir python
+ 1471  cd python/
+ 1472  touch print.py
+ 1473  vi print.py 
+ 1474  python print.py 
+ 1475  python3 print.py 
+ 1476  vi print.py 
+ 1477  python3 print.py 
+ 1478  python3 print.py >>first_out.txt
+ 1479  cat first_out.txt 
+ 1480  conda deactivate
+ 1481  cd Downloads/
+ 1482  cd pycharm-community-2025.2.2/
+ 1483  ls
+ 1484  cd bin/
+ 1485  ls
+ 1486  ./pycharm.sh
+ 1487  conda deactivate
+ 1488  python3 --version
+ 1489  python3
+ 1490  cd Downloads/
+ 1491  tar -xzf pycharm-community-2025.2.2.tar.gz 
+ 1492  tar -xzf jetbrains-toolbox-pycharm-community-2025.2.2.tar.gz && cd jetbrains-toolbox-pycharm-community-2025.2.2/bin && ./jetbrains-toolbox
+ 1493  cd pycharm-community-2025.2.2/
+ 1494  ls
+ 1495  ls -lstr
+ 1496  vi Install-Linux-tar.txt 
+ 1497  cd ~
+ 1498  cd Desktop/
+ 1499  ls
+ 1500  cd python/
+ 1501  vi print.py 
+ 1502  python3 print.py 
+ 1503  python3 -m py_compile print.py 
+ 1504  ls
+ 1505  python3
+ 1506  vi print.py 
+ 1507  python3 print.py 
+ 1508  conda deactivate
+ 1509  python3 print.py 
+ 1510  python3 8_Input.py 
+ 1511  python3 8_Input.py vinnavan Aravazhi
+ 1512  python 8_Input.py vinnavan Aravazhi
+ 1513  python3 8_Input.py vinnavan Aravazhi
+ 1514  python3 8_Input.py vinnavan
+ 1515  lsb_release -a
+ 1516  # Install Nemo file manager
+ 1517  sudo apt update
+ 1518  sudo apt install nemo
+ 1519  # Set Nemo as default file manager
+ 1520  xdg-mime default nemo.desktop inode/directory application/x-gnome-saved-search
+ 1521  # Optional: Install extensions
+ 1522  sudo apt install nemo-fileroller nemo-seahorse nemo-share
+ 1523  conda deactivate
+ 1524  minicom -s
+ 1525  ping 192.168.7.2
+ 1526  ip config
+ 1527  if config
+ 1528  ifconfig
+ 1529  conda deactivate
+ 1530  sudo minicaom -s
+ 1531  sudo minicom -s
+ 1532  conda deactivate
+ 1533  echo 1 > /proc/sys/net//ipv4/ip_forward
+ 1534  sudo echo 1 > /proc/sys/net//ipv4/ip_forward
+ 1535  sudo echo 1 > /proc/sys/net/ipv4/ip_forward
+ 1536  echo 1 | sudo tee /proc/sys/net/ipv4/ip_forward
+ 1537  sudo $$
+ 1538  sudo $
+ 1539  echo $$
+ 1540  echo $
+ 1541  ifconfig 
+ 1542  iptables --table nat --append POSTROUTING --out-interface wlp3s0 -j MASQUERADE
+ 1543  sudo iptables --table nat --append POSTROUTING --out-interface wlp3s0 -j MASQUERADE
+ 1544  sudo iptables --append FORWARD --in-interface enxe0928f8eacda -j ACCEPT
+ 1545  python3 8_Input.py vinnavan Aravazhi
+ 1546  git add test2.txt 
+ 1547  git add My program.c
+ 1548  git status
+ 1549  touch test3.txt
+ 1550  ls
+ 1551  git status
+ 1552  git add test3.txt 
+ 1553  git status
+ 1554  git commit -m "test3.txt added"
+ 1555  git status
+ 1556  git push origin main
+ 1557  history >> test3.txt 
